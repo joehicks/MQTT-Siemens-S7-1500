@@ -31,18 +31,18 @@ BEGIN
 	
 	// days of current month without leap day
 	
-	#days_from_BeginOfYear[0] := 0;
-	#days_from_BeginOfYear[1] := 31;
-	#days_from_BeginOfYear[2] := 59;
-	#days_from_BeginOfYear[3] := 90;
-	#days_from_BeginOfYear[4] := 120;
-	#days_from_BeginOfYear[5] := 151;
-	#days_from_BeginOfYear[6] := 181;
-	#days_from_BeginOfYear[7] := 212;
-	#days_from_BeginOfYear[8] := 243;
-	#days_from_BeginOfYear[9] := 273;
-	#days_from_BeginOfYear[10] := 304;
-	#days_from_BeginOfYear[11] := 334;
+	#days_from_BeginOfYear[1] := 0;
+	#days_from_BeginOfYear[2] := 31;
+	#days_from_BeginOfYear[3] := 59;
+	#days_from_BeginOfYear[4] := 90;
+	#days_from_BeginOfYear[5] := 120;
+	#days_from_BeginOfYear[6] := 151;
+	#days_from_BeginOfYear[7] := 181;
+	#days_from_BeginOfYear[8] := 212;
+	#days_from_BeginOfYear[9] := 243;
+	#days_from_BeginOfYear[10] := 273;
+	#days_from_BeginOfYear[11] := 304;
+	#days_from_BeginOfYear[12] := 334;
 	
 	
 	// read system time
